@@ -3,3 +3,7 @@ h1.site-title {
   font-size: 10em;  /* Adjust size */
   color: #000000;    /* Replace with any hex color */
 }
+
+body {
+  background-color: lightyellow;
+}
