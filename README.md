@@ -46,4 +46,7 @@ Inline `code`
 
 ### images
 
+<!---
 ![image](link)
+--->
+
