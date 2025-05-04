@@ -13,6 +13,7 @@ h1 {
 
 body {
   background-color: lightyellow;
+  font-family: 'Helvetica', sans-serif !important;
 }
 
 * {
