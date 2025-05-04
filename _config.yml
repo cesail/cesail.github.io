@@ -4,3 +4,6 @@ plugins:
 
 title: [Cesai Q Li]
 description: [A short description of your site's purpose]
+
+include:
+  - assets/css/custom.css
