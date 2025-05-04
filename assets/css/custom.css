@@ -1,5 +1,5 @@
 /* assets/css/custom.css */
-h1.wrapper {
+h1 {
   font-size: 10em !important;  /* Adjust size */
   color: #000000 !important;    /* Replace with any hex color */
 }
