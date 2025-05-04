@@ -7,13 +7,13 @@ h1 a {
 }
 
 h1 {
-  font-size: 5em !important;  /* Adjust size */
+  font-size: 2em !important;  /* Adjust size */
   color: #000000 !important;    /* Replace with any hex color */
 }
 
 body {
   background-color: lightyellow;
-  font-family: Times New Roman !important;
+  font-family: 'Times New Roman' !important;
 }
 
 * {
