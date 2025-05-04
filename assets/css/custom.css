@@ -1,0 +1,5 @@
+/* assets/css/custom.css */
+h1.site-title {
+  font-size: 2.5em;  /* Adjust size */
+  color: #1a73e8;    /* Replace with any hex color */
+}
