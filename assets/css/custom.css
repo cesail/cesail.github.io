@@ -1,4 +1,11 @@
 /* assets/css/custom.css */
+
+
+h1 a {
+  color: #990000 !important;
+  text-decoration: none;
+}
+
 h1 {
   font-size: 5em !important;  /* Adjust size */
   color: #000000 !important;    /* Replace with any hex color */
