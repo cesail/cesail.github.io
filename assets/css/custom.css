@@ -1,9 +1,13 @@
 /* assets/css/custom.css */
 h1.site-title {
-  font-size: 10em;  /* Adjust size */
-  color: #000000;    /* Replace with any hex color */
+  font-size: 10em !important;  /* Adjust size */
+  color: #000000 !important;    /* Replace with any hex color */
 }
 
 body {
-  background-color: blue;
+  background-color: blue !important;
+}
+
+* {
+  border: 2px solid red !important;
 }
