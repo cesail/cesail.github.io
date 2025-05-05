@@ -38,12 +38,11 @@ h1 a {
 
 h1, h2, h3 {
   font-family: 'marvel';
-  font-weight: 200;
+}
 
 body {
   background-color: palegoldenrod;
   font-family: 'marvel';
-  font-weight: 200; 
 }
 
 
