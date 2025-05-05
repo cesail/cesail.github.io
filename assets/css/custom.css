@@ -12,21 +12,41 @@ h1 {
 }
 
 /* In your custom.css */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Marvel:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-:root {
-  --body-font: 'Roboto', sans-serif;
-  --header-font: 'Roboto', sans-serif;
+.marvel-regular {
+  font-family: "Marvel", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
+.marvel-bold {
+  font-family: "Marvel", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.marvel-regular-italic {
+  font-family: "Marvel", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.marvel-bold-italic {
+  font-family: "Marvel", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+
 h1, h2, h3 {
-  font-family: var(--header-font);
+  font-family: 'marvel';
   font-weight: 700;
 
 body {
   background-color: palegoldenrod;
-  font-family: var(--body-font);
-  /* font-weight: 200; */
+  font-family: 'marvel';
+  font-weight: 200; 
 }
 
 
