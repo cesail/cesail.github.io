@@ -11,12 +11,22 @@ h1 {
   color: #000000 !important;    /* Replace with any hex color */
 }
 
-body {
-  background-color: palegoldenrod;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 200;
+/* In your custom.css */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+:root {
+  --body-font: 'Roboto', sans-serif;
+  --header-font: 'Roboto', sans-serif;
 }
 
-* {
-  border: 1px solid red !important;
+h1, h2, h3 {
+  font-family: var(--header-font);
+  font-weight: 700;
+
+body {
+  background-color: palegoldenrod;
+  font-family: var(--body-font);
+  /* font-weight: 200; */
 }
+
+
