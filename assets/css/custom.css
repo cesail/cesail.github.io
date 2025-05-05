@@ -3,7 +3,7 @@
 
 h1 a {
   color: #222222 !important;
-  font-size: 1.2em
+  font-size: 1.2em;
   text-decoration: none;
 }
 
@@ -11,6 +11,7 @@ h1 a {
 /* In your custom.css */
 @import url('https://fonts.googleapis.com/css2?family=Marvel:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+/*
 .marvel-regular {
   font-family: "Marvel", sans-serif;
   font-weight: 400;
@@ -34,15 +35,14 @@ h1 a {
   font-weight: 700;
   font-style: italic;
 }
-
+*/
 
 h1, h2, h3 {
-  font-family: 'marvel';
+  font-family: 'Marvel', sans-serif;
 }
 
 body {
   background-color: palegoldenrod;
-  font-family: 'marvel';
+  font-family: 'Marvel', sans-serif;
 }
-
 
