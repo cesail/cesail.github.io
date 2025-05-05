@@ -2,14 +2,11 @@
 
 
 h1 a {
-  color: #990000 !important;
+  color: #222222 !important;
+  font-size: 1.3em
   text-decoration: none;
 }
 
-h1 {
-  font-size: 1.3em !important;  /* Adjust size */
-  color: #000000 !important;    /* Replace with any hex color */
-}
 
 /* In your custom.css */
 @import url('https://fonts.googleapis.com/css2?family=Marvel:ital,wght@0,400;0,700;1,400;1,700&display=swap');
@@ -41,7 +38,7 @@ h1 {
 
 h1, h2, h3 {
   font-family: 'marvel';
-  font-weight: 700;
+  font-weight: 200;
 
 body {
   background-color: palegoldenrod;
