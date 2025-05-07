@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">
     <a>Cesai Q. Li </a></h1>
-<p style="text-align: center;" id="phd">
+<p style="text-align: center; margin-top: 0;" id="phd">
     Ph.D. student in Mathematics </p>
 <p style="text-align: center; line-height: 1.0;" id="description">
        Boston University <br>
