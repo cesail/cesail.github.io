@@ -1,3 +1,6 @@
+<h1 style="text-align: center;">Cesai Q. Li'</h1>
+<p style="text-align: center;">Ph.D. student in Mathematics</p>
+
 # This is h1 heading
 ## This is h2 heading
 ### This is h3 heading
