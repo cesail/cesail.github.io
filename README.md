@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">
+<h1 style="text-align: center; margin-bottom: 0">
     <a>Cesai Q. Li </a></h1>
 <p style="text-align: center; margin-top: 0;" id="phd">
     Ph.D. student in Mathematics </p>
