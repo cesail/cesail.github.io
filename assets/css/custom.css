@@ -20,6 +20,7 @@ body {
   font-family: 'Marvel', sans-serif !important;
   font-weight: 400; /* Regular weight */
   font-style: normal;
+  line-height: 1.0;
 }
 
 .markdown-body {
