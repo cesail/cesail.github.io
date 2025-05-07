@@ -1,7 +1,7 @@
-# h1 heading
-## h2 heading
-### h3 heading
-
+# This is h1 heading
+## This is h2 heading
+### This is h3 heading
+This is regular text. abcdefghijklmnopqrst
 **this is bold text**
 
 *this is italic text*
@@ -27,7 +27,7 @@ Inline `code`
 ### table 
 
 | Number | Name |
-| -----: | ---: |
+| ------:| ----:|
 |   01   | aaa  |
 | 02     | bbb  |
 //This is left-aliened table
