@@ -1,7 +1,8 @@
 <h1 style="text-align: center;">
     <a>Cesai Q. Li </a></h1>
+<p style="text-align: center;" id="phd">
+    Ph.D. student in Mathematics </p>
 <p style="text-align: center; line-height: 1.0;" id="description">
-    Ph.D. student in Mathematics<br>
        Boston University <br>
 Department of Mathematics and Statistics <br>
 665 Commonwealth Ave, Boston, MA, 02215 <br>
