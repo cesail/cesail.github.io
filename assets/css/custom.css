@@ -10,15 +10,13 @@ h1 a {
 
 
 
-
-
 h1, h2, h3 {
-  font-family: 'Marvel', sans-serif;
+  font-family: 'Marvel:ital', sans-serif;
 }
 
 body {
   background-color: palegoldenrod;
-  font-family: 'Marvel', sans-serif;
+  font-family: 'Marvel:ital', sans-serif;
 }
 
 .content-frame {
