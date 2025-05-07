@@ -16,10 +16,12 @@ h1, h2, h3 {
 
 body {
   background-color: palegoldenrod;
-  font-family: 'Marvel:ital', sans-serif;
+  font-family: 'Marvel', sans-serif;
+  font-weight: 400; /* Regular weight */
+  font-style: normal;
 }
 
-.content-frame {
+.container-lg.px-3.my-5.markdown-body {
   border: 8px solid #333;       /* thick border */
   padding: 40px;                /* inner space between border and content */
   margin: 60px auto;            /* center the box */
