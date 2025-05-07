@@ -3,6 +3,11 @@
 <p style="text-align: center;">
     <b>Ph.D. student in Mathematics</b></p>
 
+<p style="text-align: center;"><b> Boston University </b></p>
+Department of Mathematics and Statistics
+Office: CDS 410
+email: 
+
 # This is h1 heading
 ## This is h2 heading
 ### This is h3 heading
