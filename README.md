@@ -1,11 +1,12 @@
 <h1 style="text-align: center;">
     <a>Cesai Q. Li </a></h1>
-<p style="text-align: center; line-height: 1.0;">
-    <b>Ph.D. student in Mathematics<br>
+<p style="text-align: center; line-height: 1.0;" id="description">
+    Ph.D. student in Mathematics<br>
        Boston University <br>
-Department of Mathematics and Statistics<br>
-Office: CDS 410<br>
-E-mail: cesai at bu dot edu </b></p>
+Department of Mathematics and Statistics <br>
+665 Commonwealth Ave, Boston, MA, 02215 <br>
+<b>Office</b>: CDS 410 <br>
+<b>E-mail</b>: cesai at bu dot edu </p>
 
 # This is h1 heading
 ## This is h2 heading
