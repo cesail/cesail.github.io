@@ -1,5 +1,7 @@
-<h1 style="text-align: center;">Cesai Q. Li'</h1>
-<p style="text-align: center;">Ph.D. student in Mathematics</p>
+<h1 style="text-align: center;">
+    <a>Cesai Q. Li </a></h1>
+<p style="text-align: center;">
+    <b>Ph.D. student in Mathematics</b></p>
 
 # This is h1 heading
 ## This is h2 heading
