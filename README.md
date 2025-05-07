@@ -5,7 +5,7 @@
        Boston University <br>
 Department of Mathematics and Statistics<br>
 Office: CDS 410<br>
-email: </b></p>
+E-mail: cesai at bu dot edu </b></p>
 
 # This is h1 heading
 ## This is h2 heading
