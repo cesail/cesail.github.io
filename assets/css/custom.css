@@ -15,12 +15,19 @@ h1, h2, h3 {
   font-family: 'Marvel', sans-serif;
 }
 
+p b {
+  color: #555555;
+  font-family: 'Marvel', sans-serif;
+  font-weight: 700; 
+  font-style: normal;
+  text-decoration: none;
+}
+
 body {
   background-color: palegoldenrod;
   font-family: 'Marvel', sans-serif !important;
   font-weight: 400; /* Regular weight */
   font-style: normal;
-  line-height: 1.0;
 }
 
 .markdown-body {
