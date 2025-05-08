@@ -5,8 +5,8 @@ header p.view {
   display: none !important;
 }
 
-header::after {
-  content: "";
+.header::after {
+  content: "aaa";
   display: block;
   background-color: white;
   width: 24px;
