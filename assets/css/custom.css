@@ -40,7 +40,7 @@ h1, h2, h3 {
 }
 
 body {
-  background-color: palegoldenrod;
+  background-color: #f0efac;
   font-family: 'Marvel', sans-serif !important;
   font-weight: 400; /* Regular weight */
   font-style: normal;
@@ -56,7 +56,7 @@ section {
   padding: 40px;                /* inner space between border and content */
   margin: 40px auto;            /* center the box */
   max-width: 950px;             /* control width */
-  background-color: #fffccc !important;      background inside the frame */
+  background-color: #fffddf !important;      background inside the frame */
   /* box-shadow: 0 0 20px rgba(0,0,0,0.1); */  /* optional shadow for depth */
 }
 
