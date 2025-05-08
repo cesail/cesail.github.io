@@ -1,13 +1,4 @@
-<h1 style="text-align: center; margin-bottom: 0">
-    <a>Cesai Q. Li </a></h1>
-<p style="text-align: center; margin-top: 0;" id="phd">
-    Ph.D. student in Mathematics </p>
-<p style="text-align: center; line-height: 1.0;" id="description">
-       Boston University <br>
-Department of Mathematics and Statistics <br>
-665 Commonwealth Ave, Boston, MA, 02215 <br>
-<b>Office</b>: CDS 410 <br>
-<b>E-mail</b>: cesai at bu dot edu </p>
+Test this is regular text some regular text regulat text regulat text regulat text regulat text regulat text regulat text regulat text regulat text regulat text regulat text regulat text regulat text regulat text regulat text 
 
 # This is h1 heading
 ## This is h2 heading
