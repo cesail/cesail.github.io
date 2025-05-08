@@ -51,7 +51,7 @@ body {
   font-family: inherit !important; /* Inherits from body */
 }
 
-.container-lg.px-3.my-5.markdown-body {
+.content {
   border: 2px solid #333;       /* thick border */
   padding: 40px;                /* inner space between border and content */
   margin: 40px;            /* center the box */
