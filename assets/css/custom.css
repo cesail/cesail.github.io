@@ -53,16 +53,8 @@ body {
   color: #000;
 }
 
-header {
-  border: 1px solid #333;       /* thick border */
-  padding: 5px;                /* inner space between border and content */
-  /*margin: 30px auto;*/            /* center the box */
-  background-color: floralwhite !important;      background inside the frame */
-}
 
-body > header * {
-  background: transparent !important;
-}
+
 
 section {
   border: 1px solid #333;       /* thick border */
