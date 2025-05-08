@@ -8,7 +8,7 @@ header p.view {
 
 
 h1 a {
-  color: #222222 !important;
+  color: #000 !important;
   font-family: 'Marvel', sans-serif;
   font-size: 1.2em;
   font-weight: 700; 
@@ -23,7 +23,7 @@ h1, h2, h3 {
 }
 
 #phd {
-  color: #000000;
+  color: #000;
   font-family: 'Marvel', sans-serif;
   font-weight: 700; 
   font-style: normal;
@@ -32,7 +32,7 @@ h1, h2, h3 {
 }
 
 #description {
-  color: #666666;
+  color: #000;
   font-family: 'Marvel', sans-serif;
   font-weight: 400; 
   font-style: normal;
@@ -45,10 +45,12 @@ body {
   font-weight: 400; /* Regular weight */
   font-style: normal;
   font-size: 1em;
+  color: #000;
 }
 
 .markdown-body {
   font-family: inherit !important; /* Inherits from body */
+  color: #000;
 }
 
 section {
