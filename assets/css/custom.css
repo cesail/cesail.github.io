@@ -60,6 +60,10 @@ header {
   background-color: floralwhite !important;      background inside the frame */
 }
 
+body > header * {
+  background: transparent !important;
+}
+
 section {
   border: 1px solid #333;       /* thick border */
   padding: 40px;                /* inner space between border and content */
