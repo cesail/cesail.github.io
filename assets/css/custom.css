@@ -55,8 +55,8 @@ body {
 
 header {
   border: 1px solid #333;       /* thick border */
-  padding: 30px;                /* inner space between border and content */
-  margin: 30px auto;            /* center the box */
+  padding: 5px;                /* inner space between border and content */
+  /*margin: 30px auto;*/            /* center the box */
   background-color: floralwhite !important;      background inside the frame */
 }
 
