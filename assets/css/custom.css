@@ -51,11 +51,15 @@ body {
   font-family: inherit !important; /* Inherits from body */
 }
 
-section {
+main section {
   border: 2px solid #333;       /* thick border */
   padding: 40px;                /* inner space between border and content */
   margin: 40px auto;            /* center the box */
   max-width: 950px;             /* control width */
   background-color: f0e68c !important;      background inside the frame */
   /* box-shadow: 0 0 20px rgba(0,0,0,0.1); */  /* optional shadow for depth */
+}
+
+main section > * {
+  background-color: inherit;  /* Children inherit bg color */
 }
