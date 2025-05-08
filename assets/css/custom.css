@@ -3,7 +3,18 @@
 
 header p.view {
   display: none !important;
-}  
+}
+
+header::after {
+  content: "";
+  display: block;
+  background-color: white;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+}
 
 h1 a {
   color: #222222 !important;
