@@ -68,8 +68,8 @@ section {
   margin-top: 0px auto;            /* center the box */
   max-width: 950px;             /* control width */
   background-color: floralwhite !important;      /* background inside the frame */
-  margin: auto;
   margin-left: 100px auto;
+  margin: auto;
   
   /* box-shadow: 0 0 20px rgba(0,0,0,0.1); */  /* optional shadow for depth */
 }
