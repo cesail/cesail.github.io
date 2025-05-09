@@ -8,14 +8,13 @@ header p.view {
 
 
 h1 a {
-  color: #000 !important;
+  color: floralwhite; !important;
   font-family: 'Marvel', sans-serif;
   font-size: 1.2em;
   font-weight: 700; 
   font-style: normal;
   text-decoration: none;
   margin-bottom: 0;
-  font-color: floralwhite;
 }
 
 
@@ -24,7 +23,7 @@ h1, h2, h3 {
 }
 
 #phd {
-  color: #000;
+  color: floralwhite;
   font-family: 'Marvel', sans-serif;
   font-weight: 700; 
   font-style: normal;
@@ -34,7 +33,7 @@ h1, h2, h3 {
 }
 
 #description {
-  color: #000;
+  color: floralwhite;
   font-family: 'Marvel', sans-serif;
   font-weight: 700; 
   font-style: normal;
