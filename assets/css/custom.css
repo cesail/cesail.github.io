@@ -7,8 +7,9 @@ header p.view {
 }
 
 header {
-  margin-right: 200px auto;    /* pushes it right */
-  padding: 15px auto; 
+  position: relative;
+    top: 10px;
+    left: 10px;
 }
 
 
