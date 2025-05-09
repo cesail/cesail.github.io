@@ -73,6 +73,12 @@ section {
   /* box-shadow: 0 0 20px rgba(0,0,0,0.1); */  /* optional shadow for depth */
 }
 
+
 body > section * {
   background: transparent !important;
+}
+
+footer {
+   position: relative;
+  right: 20px;
 }
