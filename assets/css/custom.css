@@ -67,7 +67,7 @@ section {
   padding: 40px;                /* inner space between border and content */
   margin-top: 0px auto;            /* center the box */
   max-width: 950px;             /* control width */
-  background-color: #fffbf4; !important;      /* background inside the frame */
+  background-color: #fffdfa; !important;      /* background inside the frame */
   margin-left: 100px;
   margin: auto;
   
