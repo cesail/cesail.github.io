@@ -14,10 +14,10 @@ header {
 
 
 h1 a {
-  color: #000; !important;
+  color: #222; !important;
   font-family: 'Roboto', sans-serif;
-  font-size: 1.2em;
-  font-weight: 700; 
+  font-size: 1.3em;
+  font-weight: 400; 
   font-style: normal;
   text-decoration: none;
   margin-bottom: 0;
@@ -29,7 +29,7 @@ h1, h2, h3 {
 }
 
 #phd {
-  color: #000;
+  color: #222;
   font-family: 'Roboto', sans-serif;
   font-weight: 700; 
   text-decoration: none;
@@ -37,7 +37,7 @@ h1, h2, h3 {
 }
 
 #description {
-  color: #000;
+  color: #555;
   font-family: 'Roboto', sans-serif;
   font-weight: 400; 
   font-style: normal;
@@ -67,7 +67,7 @@ section {
   padding: 40px;                /* inner space between border and content */
   margin-top: 0px auto;            /* center the box */
   max-width: 950px;             /* control width */
-  background-color: floralwhite !important;      /* background inside the frame */
+  background-color: #fffaee; !important;      /* background inside the frame */
   margin-left: 100px;
   margin: auto;
   
