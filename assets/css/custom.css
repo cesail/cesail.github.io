@@ -31,7 +31,7 @@ h1, h2, h3 {
 #phd {
   color: #222;
   font-family: 'Roboto', sans-serif;
-  font-weight: 700; 
+  font-weight: 400; 
   text-decoration: none;
   font-size: 0.9em;
 }
@@ -63,11 +63,11 @@ body {
 
 
 section {
-  border: 1px solid #333;       /* thick border */
+  border: 1px solid #666;       /* thick border */
   padding: 40px;                /* inner space between border and content */
   margin-top: 0px auto;            /* center the box */
   max-width: 950px;             /* control width */
-  background-color: #fffaee; !important;      /* background inside the frame */
+  background-color: #ffffef; !important;      /* background inside the frame */
   margin-left: 100px;
   margin: auto;
   
