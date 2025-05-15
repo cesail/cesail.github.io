@@ -1,4 +1,8 @@
-Test this is regular text some regular text regulat text regulat text regulat text regulat text regulat text regulat text regulat text regulat text regulat text regulat text regulat text regulat text regulat text regulat text 
+I study mathematical structures in quantum field theory with a focus on monoidal categories and topological quantum field teory.  I am interested in the connections of topology and homological algebra  with quantum information and quantum computation.
+
+My [CV](link)
+
+---
 
 # This is h1 heading
 ## This is h2 heading
