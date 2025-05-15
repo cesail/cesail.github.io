@@ -4,8 +4,9 @@ My [CV](link) (lastly updated on 05/15/2025).
 
 ---
 
-In Summer 1 (May 20-June 27) I am teaching CAS MA 116 A1 (Statistics II).  Course homepage [here](cesail.github.io/25s1ma116.md). 
+- In Summer 1 2025 I am teaching CAS MA 116 A1 (Statistics II).  Course homepage [here](cesail.github.io/25s1ma116.md). 
 
+- In Summer 2 2025 I am teaching CAS MA 116 B1 (Statistics II).  Course homepage [here](cesail.github.io/25s2ma116.md). 
 
 <!---
 ![image](link)
