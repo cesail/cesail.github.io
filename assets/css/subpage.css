@@ -50,7 +50,7 @@ body {
 section {
   border: 1px solid #666;       /* thick border */
   padding: 30px;                /* inner space between border and content */
-  max-width: 800px;              /* control width */
+  max-width: 700px;              /* control width */
   background-color: #fefefe;       /* background inside the frame */
   margin: auto;
   
