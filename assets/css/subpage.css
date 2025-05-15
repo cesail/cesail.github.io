@@ -6,14 +6,12 @@ header p.view {
   display: none !important;
 }
 
-header {
-  position: relative;
-}
+
 
 #coursetitle{
   color: #222;
   font-family: 'Roboto', sans-serif;
-  font-size: 1.3em;
+  font-size: 2em;
   font-weight: 400; 
   text-align: center;
 }
