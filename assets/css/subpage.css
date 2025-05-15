@@ -53,7 +53,7 @@ section {
   border: 1px solid #666;       /* thick border */
   padding: 40px;                /* inner space between border and content */
   /* max-width: 950px;              control width */
-  background-color: #fefefe; !important;      /* background inside the frame */
+  background-color: #fefefe;       /* background inside the frame */
   margin: auto;
   
   /* box-shadow: 0 0 20px rgba(0,0,0,0.1); */  /* optional shadow for depth */
