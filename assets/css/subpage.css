@@ -1,0 +1,74 @@
+/* assets/css/custom.css */
+@import url('https://fonts.googleapis.com/css2?family=Marvel:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Thasadith:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Marvel:ital,wght@0,400;0,700;1,400;1,700&family=Thasadith:ital,wght@0,400;0,700;1,400;1,700&display=swap'); */
+
+header p.view {
+  display: none !important;
+}
+
+header {
+  position: relative;
+}
+
+
+h1 a {
+  color: #222; !important;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.3em;
+  font-weight: 400; 
+  font-style: normal;
+  text-decoration: none;
+  margin-bottom: 0;
+}
+
+
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+#description {
+  color: #555;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400; 
+  font-style: normal;
+  text-decoration: none;
+  font-size: 0.9em;
+}
+
+body {
+  background-color: #e3e3e3; /* #eae0c8; */ /* #a47764; */ /* #f8efaa; */
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: 400; /* Regular weight */
+  font-style: normal;
+  font-size: 0.9em;
+  color: #333;
+}
+
+.markdown-body {
+  font-family: inherit !important; /* Inherits from body */
+  color: #000;
+}
+
+
+
+section {
+  border: 1px solid #666;       /* thick border */
+  padding: 40px;                /* inner space between border and content */
+  max-width: 950px;             /* control width */
+  background-color: #fefefe; !important;      /* background inside the frame */
+  margin: auto;
+  
+  /* box-shadow: 0 0 20px rgba(0,0,0,0.1); */  /* optional shadow for depth */
+}
+
+
+body > section * {
+  background: transparent !important;
+}
+
+footer {
+  position: relative;
+  top: 900px;
+  right: 1px;
+}
