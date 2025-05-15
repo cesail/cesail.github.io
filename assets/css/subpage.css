@@ -10,8 +10,7 @@ header {
   position: relative;
 }
 
-
-h1 a {
+#coursetitle{
   color: #222;
   font-family: 'Roboto', sans-serif;
   font-size: 1.3em;
