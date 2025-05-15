@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>About</title>
+  <title> CAS MA 116 </title>
   <link rel="stylesheet" href="assets/css/custom.css">
 </head>
 <body>
