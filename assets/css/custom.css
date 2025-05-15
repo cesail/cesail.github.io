@@ -46,7 +46,7 @@ h1, h2, h3 {
 }
 
 body {
-  background-color: #d9d3d3; /* #eae0c8; */ /* #a47764; */ /* #f8efaa; */
+  background-color: #ffdfdf; /* #eae0c8; */ /* #a47764; */ /* #f8efaa; */
   font-family: 'Roboto', sans-serif !important;
   font-weight: 400; /* Regular weight */
   font-style: normal;
@@ -67,7 +67,7 @@ section {
   padding: 40px;                /* inner space between border and content */
   margin-top: 0px auto;            /* center the box */
   max-width: 950px;             /* control width */
-  background-color: #fffdfa; !important;      /* background inside the frame */
+  background-color: #fefefe; !important;      /* background inside the frame */
   margin-left: 100px;
   margin: auto;
   
