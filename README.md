@@ -1,4 +1,6 @@
-I study mathematical structures in quantum field theory with a focus on monoidal categories and topological quantum field theory.  I am interested in the connections of topology and homological algebra  with quantum information and quantum computation.
+I study mathematical structures in quantum field theory with Dr. [Brian Williams](https://brianrwilliams.github.io/).   I am also interested in the connections of topology and homological algebra  with quantum information and quantum computation. 
+
+I received my B.S. in Mathematics from the University of British Columbia in 2024.
 
 My [CV](link) (lastly updated on 05/15/2025).
 
