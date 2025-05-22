@@ -85,27 +85,24 @@ footer {
   right: 20px;
 }
 
-bottomlinks {
+.bottomlinks {
    margin-top: 50px;
    padding: 20px 0;
    text-align: center;
    font-family: 'Roboto', sans-serif;
    font-weight: 400;
    background-color: #f5f5f5;
+   color: #0077cc;
    border-top: 1px solid #ccc;
+   text-decoration: underline;
+   display: flex;
+   justify-content: space-evenly; /* evenly spreads out */
+   max-width: 600px;
   }
 
-.bottomlinks-links {
-    margin: 0 10px;
-    color: #0077cc;
-    text-decoration: underline;
-    display: flex;
-    justify-content: space-evenly; /* evenly spreads out */
-    max-width: 600px;
-    margin: 0 auto;
-  }
 
-  .bottomlinks-links a:hover {
+
+  .bottomlinks a:hover {
     text-decoration: underline;
   }
 
