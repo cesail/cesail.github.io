@@ -12,3 +12,10 @@ I received my B.S. in Mathematics from the University of British Columbia in 202
 ![image](link)
 --->
 
+  <footer>
+    <div class="footer-links">
+      <a href="/travel">travel</a> |
+      <a href="/projects">projects</a> |
+      <a href="/misc">miscellaneous</a>
+    </div>
+  </footer>
