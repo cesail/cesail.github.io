@@ -94,7 +94,7 @@ footer {
    border-top: 1px solid #ccc;
    display: flex;
    justify-content: space-evenly; /* evenly spreads out */
-   max-width: 600px;
+   max-width: 500px;
   }
 
 
