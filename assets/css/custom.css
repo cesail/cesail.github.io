@@ -95,7 +95,7 @@ bottomlinks {
    border-top: 1px solid #ccc;
   }
 
-.bottomlinks-links a {
+.bottomlinks-links {
     margin: 0 10px;
     color: #0077cc;
     text-decoration: underline;
