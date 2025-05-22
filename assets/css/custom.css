@@ -84,3 +84,22 @@ footer {
   top: 900px;
   right: 20px;
 }
+
+bottomlinks {
+   margin-top: 50px;
+   padding: 20px 0;
+   text-align: center;
+   font-family: sans-serif;
+   background-color: #f5f5f5;
+   border-top: 1px solid #ccc;
+  }
+
+.bottomlinks-links a {
+    margin: 0 10px;
+    color: #0077cc;
+    text-decoration: none;
+  }
+
+  .bottomlinks-links a:hover {
+    text-decoration: underline;
+  }
