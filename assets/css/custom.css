@@ -92,7 +92,6 @@ footer {
    font-family: 'Roboto', sans-serif;
    font-weight: 400;
    border-top: 1px solid #ccc;
-   text-decoration: underline;
    display: flex;
    justify-content: space-evenly; /* evenly spreads out */
    max-width: 600px;
