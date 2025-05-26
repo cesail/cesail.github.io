@@ -16,6 +16,6 @@ I received my B.S. in Mathematics from the University of British Columbia in 202
 <div class="bottomlinks">
          <a href="/travel">Travel</a> 
       <a href="/projects">Projects</a> 
-      <a href="/misc">Miscellaneous</a>
+      <a href="/photos">Photos</a>
 </div>
 
