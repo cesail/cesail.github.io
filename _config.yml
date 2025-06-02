@@ -5,7 +5,7 @@ plugins:
 repository: "cesail/cesail.github.io"
 
 title: Cesai Q. Li
-description: [Ph.D. student in Mathematics] 
+description: Ph.D. student in Mathematics
 logo: /files/CCDS.jpg
 
 include:
