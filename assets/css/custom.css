@@ -104,3 +104,8 @@ footer {
     text-decoration: underline;
   }
 
+#keywords {
+  color: #fefefe;
+  font-size: 0.5em;
+}
+
