@@ -11,8 +11,6 @@ I received my B.S. in Mathematics from the University of British Columbia in 202
 <!---
 ![image](link)
 --->
-<p id="keywords"> cesai li, bu, math, quantum, physics </p>
----
 <div class="bottomlinks">
          <a href="/travel">Travel</a> 
       <a href="/projects">Projects</a> 
