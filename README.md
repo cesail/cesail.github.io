@@ -15,6 +15,7 @@ I received my B.Sc. in Mathematics from the University of British Columbia in 20
          <a href="/travel">Travel</a> 
       <a href="/projects">Projects</a> 
       <a href="/photos">Photos</a>
+<a href="https://www.linkedin.com/in/cesai-li-24062436b/"> LinkedIn</a>
 </div>
 
 
