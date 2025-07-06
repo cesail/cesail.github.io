@@ -98,10 +98,21 @@ footer {
    max-width: 500px;
   }
 
-
-
   .bottomlinks a:hover {
     text-decoration: underline;
+  }
+
+.bottomlink2 {
+   margin-top: 0px;
+   padding: 10px auto;
+   /*text-align: center;*/
+   font-family: 'Roboto', sans-serif;
+   font-weight: 400;
+   font-size: 0.9em;
+   /* border-top: 1px solid #ccc; */
+  /* display: flex; 
+   justify-content: space-evenly;  evenly spreads out */
+   max-width: 500px;
   }
 
 #keywords {
