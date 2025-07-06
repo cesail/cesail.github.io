@@ -93,7 +93,7 @@ footer {
    font-weight: 400;
    font-size: 0.9em;
    border-top: 1px solid #ccc;
-   display: flex;
+   /*display: flex; */
    justify-content: space-evenly; /* evenly spreads out */
    max-width: 500px;
   }
