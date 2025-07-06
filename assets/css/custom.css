@@ -103,13 +103,13 @@ footer {
   }
 
 .bottomlink2 {
-   margin-top: 0px;
+   margin-top: 10px;
    padding: 10px auto;
-   /*text-align: center;*/
+   text-align: center;
    font-family: 'Roboto', sans-serif;
    font-weight: 400;
    font-size: 0.9em;
-   /* border-top: 1px solid #ccc; */
+    border-top: 1px solid #ccc; 
   /* display: flex; 
    justify-content: space-evenly;  evenly spreads out */
    max-width: 500px;
