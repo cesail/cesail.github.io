@@ -1,1 +1,66 @@
+/* assets/css/custom.css */
+@import url('https://fonts.googleapis.com/css2?family=Marvel:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Thasadith:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Marvel:ital,wght@0,400;0,700;1,400;1,700&family=Thasadith:ital,wght@0,400;0,700;1,400;1,700&display=swap'); */
+
+header p.view {
+  display: none !important;
+}
+
+
+
+#coursetitle{
+  color: #222;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2em;
+  font-weight: 400; 
+  text-align: center;
+  margin-top: 1px;
+}
+
+
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+#description {
+  color: #555;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400; 
+  font-style: normal;
+  text-decoration: none;
+  font-size: 0.9em;
+}
+
+body {
+  background-color: #e3e3e3;
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: 400;
+  font-size: 0.9em;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.markdown-body {
+  font-family: inherit !important;
+  color: #000;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;       /* allows stacking on small screens */
+  gap: 20px;              /* space between the two boxes */
+  justify-content: center;
+  padding: 20px;
+}
+
+section {
+  border: 1px solid #666;
+  padding: 30px;
+  background-color: #fefefe;
+  flex: 1 1 320px;        /* grow, shrink, min width */
+  max-width: 500px;       /* limit max size for readability */
+  box-sizing: border-box; /* keep padding inside width */
+}
 
