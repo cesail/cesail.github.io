@@ -8,6 +8,7 @@ I received my B.Sc. in Mathematics from the University of British Columbia in 20
 
 - In Summer 2 2025 I am teaching CAS MA 116 B1 (Statistics II).  Course homepage [here](/courses/25s2ma116/). 
 
+
 <!---
 ![image](link)
 --->
