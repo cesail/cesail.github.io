@@ -1,8 +1,10 @@
+<!--
 ---
-layout: null  # This disables the theme/layout
+layout: null  
 title: Projects
 permalink: /projects
 ---
+-->
 
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
@@ -11,23 +13,22 @@ permalink: /projects
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+
     <!--
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     [if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     
-    <link rel="stylesheet" href="{{ "/assets/css/two_boxes.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="/assets/css/two_boxes.css">
     <link rel="stylesheet" href="/assets/css/animation.css">
+   
   </head>
   
-  <body>
-    <div class="wrapper">
-      <section style="margin: 50px auto;">
-PhD Milestone Projects        
-      </section>
-    </div>
+<body>
+  <div class="wrapper">
+    <div class="title"> <h1>Projects</h1> </div>     
+
     
     <div class="container">
         <div class="cloud"></div>
@@ -59,11 +60,28 @@ PhD Milestone Projects
         },20)
     </script>
 
-  <!-- <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script> -->
+    <div class="container2">
+      <div class="card">
+            <div class="imgBx" style="--img:url('/projects/img1.jpg')"></div>
+            <div class="content">
+                <h3>New Design<br/><span>2 Hours ago</span></h3><br>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere consequuntur magni assumenda distinctio nobis inventore iure?</p>
+            </div>
+      </div>
+
+        <div class="card">
+            <div class="imgBx" style="--img:url('/projects/img2.jpg')"></div>
+            <div class="content">
+                <h3>CSS Only<br/><span>5 Hours ago</span></h3><br>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere consequuntur magni assumenda distinctio nobis inventore iure? </p>
+            </div>
+        </div>
+    </div>
+  </div>
   </body>
 
-  <footer> <a href="https://cesail.github.io"><u>Homepage</u></a>
-  </footer>
+ <!--<footer> <a href="https://cesail.github.io"><u>Homepage</u></a>
+  </footer>--> 
 </html>
 
 
