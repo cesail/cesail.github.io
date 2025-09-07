@@ -64,8 +64,8 @@ body > section * {
 
 footer {
   font-family: 'Roboto', sans-serif;
-  position: relative;
-  top: 150px;
+  position: absolute;
+  bottom: 5px;
   left: 5px;
   font-size: 1.3em;
 }

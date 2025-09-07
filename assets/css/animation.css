@@ -191,3 +191,11 @@ body {
 .container2 .card:hover .content p {
     opacity: 1;
 }
+
+footer {
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+  font-size: 1em;
+}
