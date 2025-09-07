@@ -59,8 +59,7 @@ body {
     background: #05a2eb;
     width: 2px;
     height: 10px;
-    transform: bottom;
-    animation: animate 2s linear infinite;
+    animation: animate 2s linear forwards;
 }
 @keyframes animate {
     0% {
