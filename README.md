@@ -3,7 +3,7 @@ I study mathematical structures in quantum field theory.  My advisor is [Brian W
 I received my B.Sc. in Mathematics from the University of British Columbia in 2024.  Here is my [CV](/070825CV.pdf) (last updated 07/2025).
 
 ---
-- In Fall 2025 I am the Teaching Fellow for CAS MA 242C. My Office Hour is Wednesday 10-11 AM. 
+- In Fall 2025 I am the Teaching Fellow for CAS MA 242C. My Office Hour is Wednesday 10-11 AM.  My [tutoring room](https://www.bu.edu/math/tutoringroom/) hour is Monday 12-1 PM.
 
 - In Summer 2 2025 I taught CAS MA 116 B1 (Statistics II).  Course homepage [here](/courses/25s2ma116/).
 
