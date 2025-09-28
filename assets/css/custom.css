@@ -11,6 +11,10 @@ header {
   right: 20px;
 }
 
+h1 {
+  margin-bottom: 10px;
+}
+
 
 
 h1 a {
@@ -30,11 +34,14 @@ h1, h2, h3 {
 
 .logo {
   position: relative;
+  left: 0px;
+  top: 0px;
   height: auto;
   border-radius: 50%;
   width: 100%;      
   max-width: 250px; 
   margin: 0 auto;
+  margin-left: 0px;
 }
 
 @media (max-width: 250px) {
