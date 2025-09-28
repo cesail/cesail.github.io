@@ -28,6 +28,21 @@ h1, h2, h3 {
   font-family: 'Roboto', sans-serif;
 }
 
+.logo {
+  position: relative;
+  height: auto;
+  border-radius: 50%;
+  width: 20%;      
+  max-width: 200px; 
+  margin: 0 auto;
+}
+
+@media (max-width: 200px) {
+  .logo {
+    max-width: 50%;  
+  }
+}
+
 #phd {
   color: #222;
   font-family: 'Roboto', sans-serif;
