@@ -32,12 +32,12 @@ h1, h2, h3 {
   position: relative;
   height: auto;
   border-radius: 50%;
-  width: 20%;      
-  max-width: 200px; 
+  width: 100%;      
+  max-width: 250px; 
   margin: 0 auto;
 }
 
-@media (max-width: 200px) {
+@media (max-width: 250px) {
   .logo {
     max-width: 50%;  
   }
