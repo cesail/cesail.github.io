@@ -192,6 +192,11 @@ body {
     opacity: 1;
 }
 
+.card-link {
+  text-decoration: none;
+  color: inherit;
+}
+
 footer {
   font-family: 'Roboto', sans-serif;
   position: absolute;

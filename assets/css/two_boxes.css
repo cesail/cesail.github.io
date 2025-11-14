@@ -64,3 +64,7 @@ section {
   box-sizing: border-box; /* keep padding inside width */
 }
 
+.card-link {
+  text-decoration: none;
+  color: inherit;
+}

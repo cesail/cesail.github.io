@@ -89,3 +89,8 @@
 .container2 .card:hover .content p {
     opacity: 1;
 }
+
+.card-link {
+    text-decoration: none;
+    color: inherit;
+}
