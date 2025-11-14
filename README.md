@@ -1,4 +1,4 @@
-I study mathematical structures related to quantum field theory, using tools from geometry, topology, category theory, and homological algebra.  My advisor is [Brian Williams](https://brianrwilliams.github.io/).   I am also interested in topological quantum error correction codes and quantum computation in general.
+I am a second year mathematics PhD student at Boston University.  I study mathematical structures related to quantum field theory, using tools from geometry, topology, category theory, and homological algebra.  My advisor is [Brian Williams](https://brianrwilliams.github.io/).   I am also interested in topological quantum error correction codes and quantum computation in general.
 
 I received my B.Sc. in Mathematics from the University of British Columbia in 2024.  Here is my [CV](/102625_CV.pdf) (last updated 09/2025).
 
