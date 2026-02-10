@@ -3,7 +3,7 @@ I am a second year mathematics PhD student at Boston University.  I study mathem
 I received my B.Sc. in Mathematics from the University of British Columbia in 2024.  Here is my [CV](/files/CV.pdf) (last updated 09/2025).
 
 ---
-- In Spring 2026 I am the Teaching Fellow for CAS MA 115C Statistics I. My office hour are Tuesday 3:30-4:30 pm and Friday 11:10 am-12:10 pm. My tutoring room hour is Wednesday 11am-12pm.
+- In Spring 2026 I am the Teaching Fellow for CAS MA 115C Statistics I. My office hours are Tuesday 3:30-4:30 pm and Friday 11:10 am-12:10 pm. My tutoring room hour is Wednesday 11am-12pm.
 
 - In Fall 2025 I was the Teaching Fellow for CAS MA 242C Linear Algebra.
 
