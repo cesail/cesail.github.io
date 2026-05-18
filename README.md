@@ -21,7 +21,7 @@ I received my B.Sc. in Mathematics from the University of British Columbia in 20
 --->
 
 <div class="bottomlinks">
-         <a href="/travel">Travel</a> 
+        <!-- <a href="/travel">Travel</a> --> 
       <a href="/projects">Projects</a> 
       <a href="/photos">Photos</a> <br>
 </div>
