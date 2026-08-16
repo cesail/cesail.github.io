@@ -18,7 +18,7 @@ h1 {
 
 
 h1 a {
-  color: #222; !important;
+  color: #222; 
   font-family: 'Roboto', sans-serif;
   font-size: 1.3em;
   font-weight: 400; 
@@ -89,11 +89,10 @@ section {
   padding: 40px;                /* inner space between border and content */
   margin-top: 0px auto;            /* center the box */
   max-width: 1000px;             /* control width */
-  background-color: #fefefe; !important;      /* background inside the frame */
+  background-color: #fefefe;      /* background inside the frame */
   margin-left: 100px;
   margin: auto;
   
-  /* box-shadow: 0 0 20px rgba(0,0,0,0.1); */  /* optional shadow for depth */
 }
 
 
